@@ -24,6 +24,8 @@ Setup
 1. Clone repo
 2. create postgres db with name 
 3. replace db url in .env file see `env.sample`
+3.1 Create a Virtual env
+3.5 Install requirements `pip install -r requirements/local.txt`
 4. run tests with `python manage.py test`
 5. make all tests pass
 6. Open A PR
