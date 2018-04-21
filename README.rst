@@ -21,6 +21,7 @@ Moved to settings_.
 
 Setup
 -----
+0. Fork the repo
 1. Clone repo
 2. create postgres db with name 
 3. replace db url in .env file see `env.sample`
